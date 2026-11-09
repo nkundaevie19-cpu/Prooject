@@ -21,7 +21,7 @@ html{
 }
 body{
     font-family:'Plus Jakarta Sans',Arial, sans-serif;
-    background: var(--white);
+    background: #f6f2ec;
     color:var(--ink);
     line-height: 1.65;
     -webkit-font-smoothing:antialised;
@@ -72,7 +72,7 @@ h1,h2,h3{
     color:#fff;
     border-color:var(--ink);
 }
--------------/*NAV*/---------
+/*NAV*/
 header{
     position:sticky;
     top:0;
@@ -116,7 +116,7 @@ nav{
     cursor: pointer;
     color:var(--ink);
 }
-------/*HERO*/------------
+/*HERO*/
 .hero{
     padding:90px 0 100px;
     background: radial-gradient(circle at 88% 8%, #e4edf4 0, transparent 45%), radial-gradient(circle at 0% 100%, #efe9df 0, transparent 40%)};
@@ -241,7 +241,7 @@ object-fit: cover;
     height: 50%;
     background: linear-gradient(160deg, #dde8e0, #c6d8cc);  
 }
-----------/*CATEGORIES*/-----------
+/*CATEGORIES*/
 .section{
     padding:90px 0;
 
@@ -364,7 +364,7 @@ object-fit: cover;
 .t4{
     background: var(--mist);
 }  
---------/*PRODUCTS*/----------------------   
+/*PRODUCTS*/   
 .shop{
     background: var(--mist);
 } 
@@ -380,7 +380,7 @@ object-fit: cover;
     background: #fff;
     font-family: var();
     font-weight: 600;
-    font-size: 14px;
+    font-sie: 14px;
     color: var(--soft);
     cursor: pointer;
     transition: .2s;
@@ -450,7 +450,7 @@ object-fit: cover;
     text-decoration: underline;
 }
 
------------/*FEATURE*/---------------
+/*FEATURE*/
 .feature{
     background: var(--sand);
     border-radius: 28px;
@@ -478,7 +478,7 @@ object-fit: cover;
     font-size:13px;
     color:rgba(29, 42,54,.45);
 }
---------/*VISIT*/-----------------
+/*VISIT*/
 .visit .wrap{
     display: grid;
     grid-template-columns: 1fr 1.2fr;
