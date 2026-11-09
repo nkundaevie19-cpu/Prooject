@@ -1,6 +1,6 @@
  
 :root{
-    --white:#f6f2ec;
+    --white:#ffffff;
     --mist:#f2f5f7;
     --sand:#efe9df;
     --ink:#1d2a36;
@@ -21,7 +21,7 @@ html{
 }
 body{
     font-family:'Plus Jakarta Sans',Arial, sans-serif;
-    background: #f6f2ec;
+    background: #66727d;
     color:var(--ink);
     line-height: 1.65;
     -webkit-font-smoothing:antialised;
@@ -77,7 +77,7 @@ header{
     position:sticky;
     top:0;
     z-index:10;
-    background: rgba(246,242,236,.92);
+    background: rgba(255,255,255,.92);
     backdrop-filter: blur(10px);
     border-bottom:1px solid var(--line);
 }
