@@ -1,6 +1,6 @@
-
+m 
 :root{
-    --white:#ffffff;
+    --white:#f6f2ec;
     --mist:#f2f5f7;
     --sand:#efe9df;
     --ink:#1d2a36;
@@ -77,7 +77,7 @@ header{
     position:sticky;
     top:0;
     z-index:10;
-    background: rgba(255,255,255,.92);
+    background: rgba(246,242,236,.92);
     backdrop-filter: blur(10px);
     border-bottom:1px solid var(--line);
 }
